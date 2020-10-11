@@ -15,3 +15,13 @@ The main purpose of making this project is to revise basic concepts of Spring bo
 * Controller
 * Exception and Error Handling
 * Testing - (Last but not the least)
+
+___
+
+##### Technologies
+* Java 11
+* Spring initializr - https://start.spring.io/
+* Spring Boot 2
+* IntelliJ Ultimate IDE
+
+
